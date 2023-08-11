@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pato-Restaurant/static/css/main.e91042ef.css",
+    "main.js": "/Pato-Restaurant/static/js/main.9a7db358.js",
+    "static/media/bg-intro-01.jpg": "/Pato-Restaurant/static/media/bg-intro-01.c87e81159e0710c1340c.jpg",
+    "static/media/bg3.jpg": "/Pato-Restaurant/static/media/bg3.3c991aea90e20a9df09f.jpg",
+    "static/media/slide1-01.jpg": "/Pato-Restaurant/static/media/slide1-01.babea9ea068c6cfb5a98.jpg",
+    "index.html": "/Pato-Restaurant/index.html",
+    "main.e91042ef.css.map": "/Pato-Restaurant/static/css/main.e91042ef.css.map",
+    "main.9a7db358.js.map": "/Pato-Restaurant/static/js/main.9a7db358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91042ef.css",
+    "static/js/main.9a7db358.js"
+  ]
+}
